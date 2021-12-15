@@ -16,7 +16,7 @@ secondInputRef = document.getElementById('secondInput')
 
 let defaultColor = '#0000ff'
 
-//window.addEventListener('load', startup, false)
+window.addEventListener('load', startup, false)
 
 function updateFirst(event) {
   let p = document.querySelector('p')
